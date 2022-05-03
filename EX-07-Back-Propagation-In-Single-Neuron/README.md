@@ -69,8 +69,8 @@ print(w)
 ```
 
 ## Output:
-![multi class classification plot](output.jpg)
+![BACKPROPAGATION IN SINGLE NEURON](output.jpg)
 
 
 ## Result:
-Thus the python program to implement the multi class classification was implemented successfully.
+Thus the random classifier was successfully implemented using python programming.
