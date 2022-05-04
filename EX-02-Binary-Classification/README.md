@@ -1,3 +1,5 @@
+### EX NO: 02
+
 # BINARY CLASSIFICATION
 ## Aim:
 To write a python program to perform binary classification.
