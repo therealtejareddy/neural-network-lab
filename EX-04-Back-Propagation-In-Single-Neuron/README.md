@@ -1,5 +1,5 @@
 
-### EX NO: 07
+### EX NO: 04
 # BACK PROPOGATION IN SINGLE NEURON
 
 ## Aim:
