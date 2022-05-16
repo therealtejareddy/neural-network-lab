@@ -6,4 +6,4 @@ EX NO: 02 [Binary classification](https://github.com/teja003/neural-network-lab/
 
 EX NO: 03 [Multi class classification](https://github.com/teja003/neural-network-lab/tree/main/EX-03-Multi-Class-Classification)
 
-EX NO: 07 [Back propagation in single neuron](https://github.com/teja003/neural-network-lab/tree/main/EX-07-Back-Propagation-In-Single-Neuron)
+EX NO: 04 [Back propagation in single neuron](https://github.com/teja003/neural-network-lab/tree/main/EX-04-Back-Propagation-In-Single-Neuron)
